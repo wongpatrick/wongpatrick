@@ -11,8 +11,8 @@ I am constantly learning and looking for projects to improve my own skills.
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- ### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 ![](https://komarev.com/ghpvc/?username=wongpatrick&label=Visitors+Count&color=brightgreen)
