@@ -9,7 +9,6 @@
 # 🚀 Current Focus
 *   🔭 **Working on:**
     *   [wallpaper-vault](https://github.com/wongpatrick/wallpaper-vault) – A centralized digital aesthetic hub to manage, auto-crop, and serve high-resolution wallpaper collections to external rotation tools like DisplayFusion.
-    *   Project Anaconda – Developing a cyberpunk stealth metroidvania game in Godot, featuring perspective-shifting mechanics and retro hacking minigames.
 *   🌱 **Learning:**
     *   **Local Machine Learning Inference:** How to run local computer vision models (like WD14 Taggers) in **Python** using **ONNX Runtime**, including how to check for and leverage hardware acceleration (CUDA/GPU vs. CPU).
     *   **Godot 4 & C# Systems:** How to structure and implement modular gameplay mechanics, dynamic camera logic, and physics-based interactions in Godot 4 using C#.
