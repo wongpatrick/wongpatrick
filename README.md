@@ -3,7 +3,7 @@
 *   ☕ **Fuel:** Powered by caffeine and the satisfaction of pushing buttons on a keyboard.
 *   🐛 **Bugs Created:** Yes.
 *   🎨 **Desktop Aesthetics:** Spend way too much time organizing wallpaper collections instead of writing code.
-*   🎮 **Currently Playing:** Antigravity
+*   🎮 **Currently Playing:** Antigravity personally and Claude professionally
 *   ✈️ **Traveling:** Accumulating air miles almost as fast as I accumulate open browser tabs.
 
 # 🚀 Current Focus
